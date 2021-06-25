@@ -3,11 +3,11 @@
   <tbody>
     <tr>
       <th style="width: 30%">Nama</th>
-      <td>: Hadi Kusumanto</td>
+      <td>Hadi Kusumanto</td>
     </tr>
     <tr>
       <th>NIM</th>
-      <td>: 18090112</td>
+      <td>18090112</td>
     </tr>
     <tr>
       <th>Kelas</th>
