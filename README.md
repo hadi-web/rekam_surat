@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <th>Link Drive Laporan</th>
-      <td><a href="https://drive.google.com/file/d/1eTbULly1X3E-oNJR2jpwjxprvStel5-k/view?usp=sharing">Laporan</a></td>
+      <td><a href="https://drive.google.com/file/d/1b9fJBhifth1fYfCrLUrtnQPHxZyWfNYd/view?usp=sharing">Laporan</a></td>
     </tr>
   </tbody>
 </table>
